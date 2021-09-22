@@ -1,0 +1,6 @@
+1. Give input in the "input" file.
+2. Type CMD in the folder path directory or open CMD, then go to this folder.
+3. Then type: python assembler.py input.txt output.txt
+4. Then you can see result in CMD or you can see from "output" file and its binary is in "binary" file.
+
+NOTE: Here assembler is the python file and to open this, use NOTEPAD or Visual Studio (https://visualstudio.microsoft.com/vs/).

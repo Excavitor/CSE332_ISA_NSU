@@ -1,0 +1,15 @@
+Here we build a 14-bit ISA circuit using Logisim. 
+we use 19 instruction and everything works perfectly.
+You will find "Text Document" in every folder to help you understand/run easily.
+You can see,
+	14-bit ISA Design in Final Datapath folder.
+	"datapath.circ" -> Logisim File (inside Datapath folder) also giving "Text Document".
+	14-bit assembler file in Assembler Folder(word file) + python file(assembler design code) + "Information".
+
+Sequence:
+	1. First understand ISA design file(word file).
+	2. Then understand Assembler file(word file).
+	3. Then see Assembly code(python file).
+	4. At last Enter Datapath circuit(Logisim file).
+
+NOTE: Always see "text document" file to understand that part in every folder.

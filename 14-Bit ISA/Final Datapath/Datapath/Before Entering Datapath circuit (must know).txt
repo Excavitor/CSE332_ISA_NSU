@@ -1,0 +1,5 @@
+1. First of all, run the assembler. for any help see "information.txt" inside assembler folder.
+2. Now click on "Output.txt" file and remember those Hex code.
+3. Now open "datapath.circ" file using Logisim.
+4. In Rom, Instruction fetch section, type those Hex code.
+5. After done with everything, click "clock" one time and you will see your output.
